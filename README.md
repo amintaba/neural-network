@@ -1,4 +1,6 @@
 # neural-network
+# digits is file name have image pug
+
 
 import os 
 import cv2
